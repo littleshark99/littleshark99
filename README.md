@@ -3,7 +3,7 @@
 # Olá, bom ter você por aqui!
   <div id="badges">
   <a href = "https://www.linkedin.com/in/rafael-clare/" _blank>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" _blank/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" blank/>
   </a>  
 </div>
 
