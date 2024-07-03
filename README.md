@@ -7,7 +7,7 @@
   </a>  
 </div>  
 
-- ❤ Estudante de Sistema de informação
+- ❤ Estudante de Sistema de informação 8/8
 - 💻 Estudando para me tornar um Full-stack
 - 👩‍💻 Aprendendo sobre Back-end e Front-end  
 
