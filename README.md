@@ -12,6 +12,8 @@
 - 👩‍💻 Aprendendo sobre Back-end e Front-end
 - Me tornar Especialista em back-end
 
+  ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=littleshark99&show_icons=true&theme=dracula)
+
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title= "JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
