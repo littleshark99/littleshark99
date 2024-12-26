@@ -10,7 +10,7 @@
 - ❤ Estudante de Sistema de informação Formado
 - 💻 Estudando para me tornar um Full-stack
 - 👩‍💻 Aprendendo sobre Back-end e Front-end
-- Me tornar Especialista em back-end
+- ⚙️ Me tornar Especialista em back-end
 
 
 
