@@ -32,6 +32,7 @@
   <li>Ferramentas: GIT, Visual Studio, SQL Server</li>
 
   
+![Most Used Language](https://img.shields.io/github/languages/top/{username}/{repository})
 
  
 
