@@ -32,7 +32,7 @@
   <li>Ferramentas: GIT, Visual Studio, SQL Server</li>
 <p>------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
-  <h2>Visitantes</h1>
+  
 ![Visitor Count](https://profile-counter.glitch.me/{littleshark99}/count.svg)
 
 
