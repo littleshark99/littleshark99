@@ -31,6 +31,13 @@
   <li>Framework:.NET, ASP.NET</li>
   <li>Ferramentas: GIT, Visual Studio, SQL Server</li>
 
+  
+
+ 
+
+
+
+
 <h2>Visitantes</h2>
   
 ![Visitor Count](https://profile-counter.glitch.me/{littleshark99}/count.svg)
