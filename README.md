@@ -1,4 +1,4 @@
-<img src = "gitbrabo.png" width = "100%" align = "right">
+<img src = "gitbrabo.png" width = "100%"  height="325px" align = "right">
 
   
   
