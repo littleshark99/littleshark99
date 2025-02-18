@@ -32,7 +32,10 @@
   <li>Ferramentas: GIT, Visual Studio, SQL Server</li>
 
   
-![Most Used Language](https://img.shields.io/github/languages/top/{username}/{repository})
+### Linguagens mais usadas:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littleshark99&layout=compact)
+
 
  
 
