@@ -25,12 +25,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/visualstudio/visualstudio-original-wordmark.svg" title="Visual-Studio" alt="Visual-Studio"  width="40" height="40"/>&nbsp;
   
 </div>
-<p>-------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+
   <h2>Ferramentas e Tecnologias</h2>
   <li>Linguagens:C#, JavaScript, SQL</li>
   <li>Framework:.NET, ASP.NET</li>
   <li>Ferramentas: GIT, Visual Studio, SQL Server</li>
-<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+
 <h2>Visitantes</h2>
   
 ![Visitor Count](https://profile-counter.glitch.me/{littleshark99}/count.svg)
