@@ -7,7 +7,7 @@
   </a>  
 </div>  
 
-- ❤ Estudante de Sistema de informação Formado
+- ❤ Graduado em Sistema de informação 
 - 💻 Estudando para me tornar um Full-stack
 - 👩‍💻 Aprendendo sobre Back-end e Front-end
 - ⚙️ Me tornar Especialista em back-end
@@ -26,6 +26,7 @@
   
 </div>
 
+![Visitor Count](https://profile-counter.glitch.me/{littleshark99}/count.svg)
 
 
 
