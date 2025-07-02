@@ -1,7 +1,6 @@
 # 👨‍💻 Sobre Mim
 
 - 🎓 Graduado em **Sistemas de Informação**
-- 💻 Em transição de carreira para **Desenvolvedor Full Stack**
 - 🚀 Foco em **Back-End com C# e ASP.NET**
 - 🌐 Aprendendo também **Front-End com HTML, CSS, JavaScript e Angular**
 - 🎯 Objetivo: Me tornar especialista em **desenvolvimento .NET**
